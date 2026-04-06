@@ -1,6 +1,6 @@
 This repository, ABDM-InPTA-Metric-Storm, represents a fundamental shift in cosmological physics: the transition from the search for a static dark matter particle to the identification of an active, relativistic frequency process. By synthesizing Hamiltonian chaos with the Schwarzschild metric, this project provides the first-principles derivation and empirical proof required to resolve the 5-sigma Hubble Tension.
 
-At the heart of this proof is the analysis of pulsar J1909-3744 timing residuals. Using high-cadence, dual-band data from the Indian Pulsar Timing Array (InPTA) Data Release 2 (DR2) and the uGMRT, we have isolated a definitive alpha-signature of 1.4639 +/- 0.0302. This signature identifies the Inertial Range of a spacetime fluid undergoing Kolmogorov turbulence—the "Metric Storm" that constitutes the dark sector.
+At the heart of this proof is the analysis of pulsar J1909-3744 timing residuals. Using high-cadence, dual-band data from the Indian Pulsar Timing Array (InPTA) Data Release 2 (DR2) and the uGMRT, we have isolated a definitive alpha-signature of 1.4875 +/- 0.0290. This signature identifies the Inertial Range of a spacetime fluid undergoing Kolmogorov turbulence—the "Metric Storm" that constitutes the dark sector.
 
 Key Repository Assets:
 
@@ -12,7 +12,7 @@ AchromaticShield.py: This script processes the DMtimeseries to prove the "Achrom
 
 ArnLyastab_Floor.py: This is the theoretical engine. It calculates the 1.024 Arnold-Lyapunov Stability Floor, providing the mathematical "Razor" that collapses complex String Theory vacua into a single 4D Hamiltonian attractor.
 
-InfRedShift_1_4639.py: This is the primary empirical engine. It performs the high-cadence spectral analysis on the InPTA DR2 residuals to extract the definitive 1.4639 alpha-signature. This script identifies the "Inertial Range" of the Metric Storm, providing the specific value required to reconcile the 5-sigma Hubble Tension.
+InfRedShift_1_4875.py: This is the primary empirical engine. It performs the high-cadence spectral analysis on the InPTA DR2 residuals to extract the definitive 1.4639 alpha-signature. This script identifies the "Inertial Range" of the Metric Storm, providing the specific value required to reconcile the 5-sigma Hubble Tension.
 
 Jitter1_1730.py: This script isolates the 1.1730 jitter baseline. By establishing this fundamental "noise floor" in the J1909-3744 timing residuals, it proves that the observed stochasticity is a deterministic byproduct of the Arnold bifurcation.
 
