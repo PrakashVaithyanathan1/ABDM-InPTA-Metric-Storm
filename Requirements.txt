@@ -1,0 +1,17 @@
+Steps
+
+1) In colab cell execute 
+!apt-get install -y libsuitesparse-dev
+!pip install pint-pulsar
+
+2) Import all the Github shared files into the /content/folder directory of colab runtime session.
+
+3) Run the corescript !python InfRedShift_1_4875.py
+
+4) Run the corescript !python AchromaticShield.py
+
+5) Run the corescript !python ArnLyaStab_Floor.py
+
+6) Run the corescript !python Jitter1_1730.py
+
+
