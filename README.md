@@ -19,4 +19,4 @@ Jitter1_1730.py: This script isolates the 1.1730 jitter baseline. By establishin
 By providing these specific files, we offer a transparent, "clean-room" environment. This allows any researcher to verify that Dark Matter is an active chaotic process rather than a hidden particle, effectively providing an empirical "Razor" to simplify complex cosmological theories.
 
 Attribution:
-All primary observational data are the property of the InPTA Consortium. We express our deepest gratitude to the InPTA team and NCRA-TIFR for their decades of excellence in Indian gravitational science. This repository is a technical supplement to the forthcoming Nature publication.
+All primary observational data are the property of the InPTA Consortium. We express our deepest gratitude to the InPTA team and NCRA-TIFR for their decades of excellence in Indian gravitational science. This repository is a technical supplement to the forthcoming publication.
