@@ -6,7 +6,7 @@ Key assets in this repository:
 J1909-3744.DMtimeseries.txt: Decoupled dispersion measure data proving the Achromatic Shield.
 .par and .tim files: Primary InPTA DR2 residuals processed via PINT.
 Jitter1.1730.py: The computational engine for extracting the 1.4639 signature and the 1.024 stability floor.
-This work serves as the ultimate "Swampland Razor" for the String Theory Landscape, collapsing complex vacuum solutions into a single, dynamic 4D Hamiltonian attractor. By providing these files, we ensure the Prakash-Arnold Unification is fully verifiable by the global scientific community.
+This work serves as the ultimate "Swampland Razor" for the String Theory Landscape, collapsing complex vacuum solutions into a single, dynamic 4D Hamiltonian attractor. By providing these files, we ensure the Unification is fully verifiable by the global scientific community.
 
 Attribution:
 All primary observational data are the property of the InPTA Consortium. We express our deepest gratitude to the InPTA team and NCRA-TIFR for their decades of excellence in Indian gravitational science. This repository is a technical supplement to the forthcoming Nature publication.
